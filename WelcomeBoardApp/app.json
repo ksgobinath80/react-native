@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Welcome App",
-    "slug": "welcome-board",
+    "name": "Welcome Board App",
+    "slug": "welcome-board-app",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": ["ios", "android"],

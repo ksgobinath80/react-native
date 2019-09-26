@@ -20,7 +20,7 @@ export default function Index() {
             adjustsFontSizeToFit
             numberOfLines={1}
             style={{ fontSize: 200, fontFamily: `${font.data}400` }}>
-            {line1Text === "" ? "Click to customize" : line1Text}
+            {line1Text === "" ? "Touch Me to Add Name" : line1Text}
           </Text>
           <Text
             adjustsFontSizeToFit
