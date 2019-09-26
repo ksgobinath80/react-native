@@ -129,16 +129,6 @@ export default function Index() {
               <Text style={{ fontSize: 16, marginTop: 10, fontFamily: "OpenSans400" }}>
                 *Open this window again by clicking anywhere on the screen
               </Text>
-              <Text style={{ fontSize: 16, marginTop: 10, fontFamily: "OpenSans400" }}>
-                *Request a new feature{" "}
-                <Text
-                  style={{ fontFamily: "OpenSans400", color: "#106ebe" }}
-                  onPress={() => {
-                    Linking.openURL(`https://www.thevarunraja.com/contact`);
-                  }}>
-                  Click Here
-                </Text>
-              </Text>
             </View>
           </Surface>
         </SafeAreaView>
